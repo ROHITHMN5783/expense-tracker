@@ -1,0 +1,13 @@
+label{
+   font-size: medium;
+}
+input{
+   font-size: medium;
+}
+button{
+   width: 100px;
+   height: 40px;
+}
+select{
+   font-size: medium;
+}
